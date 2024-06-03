@@ -24,14 +24,20 @@ Baby steps
 Object Calisthenics
 Test doubles
 
-# Base para hacer tests
+
+# Setup
+
+## SDKMan
+```
+curl -s "https://get.sdkman.io" | bash
+```
+
+## Base para hacer tests
 
 Configuración básica para empezar a hacer una kata o aprender a hacer tests en
 los siguientes lenguajes:
 
 - Java con Junit y Mockito
-
-# Configuración específica por lenguaje
 
 ## Java con Junit y Mockito
 

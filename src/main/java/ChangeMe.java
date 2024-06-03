@@ -1,5 +1,5 @@
 public class ChangeMe {
-  public boolean method() {
+  public String method(int guess) {
     return true;
   }
 }

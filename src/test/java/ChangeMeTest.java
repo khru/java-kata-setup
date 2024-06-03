@@ -8,6 +8,6 @@ public class ChangeMeTest {
   public void win_when_the_player_guesses_the_number_on_the_first_attempt() {
     ChangeMe changeMe = new ChangeMe();
 
-    assertTrue(changeMe.method());
+    assertTrue(changeMe.method(5));
   }
 }
